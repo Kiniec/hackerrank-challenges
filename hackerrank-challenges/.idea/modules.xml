@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Weird_NotWeird/Weird_NotWeird.iml" filepath="$PROJECT_DIR$/Weird_NotWeird/Weird_NotWeird.iml" />
       <module fileurl="file://$PROJECT_DIR$/hackerrank-challenges.iml" filepath="$PROJECT_DIR$/hackerrank-challenges.iml" />
     </modules>
   </component>
